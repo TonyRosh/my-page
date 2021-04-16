@@ -1,6 +1,18 @@
 .button {
-    height: 500px;
-    width: 1000px;
+    height: 100%;
+    width: 100%;
     padding: 0%;
     margin: 0%;
+    align-items: center;
+    align-content: center;
+    border-radius: 50%;
+  }
+  #peach {
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+    align-content: center;
+    border-radius: 50%;
   }
