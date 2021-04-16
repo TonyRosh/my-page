@@ -11,7 +11,9 @@ body {
     align-items: center;
     align-content: center;
     border-radius: 50%;
+    cursor: pointer;
   }
+
   #peach {
     height: 100%;
     width: 100%;
@@ -24,4 +26,17 @@ body {
   
   p {
     text-align: center;
+    text-decoration: none;
+  }
+  a {
+    text-decoration: underline;
+    color: #1b1b1b;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  
+  a:hover {
+    color: indigo;
   }
